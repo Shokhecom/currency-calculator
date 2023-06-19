@@ -1,2 +1,2 @@
 # currency-calculator
-Currency culculator for EURO, USD, UZB
+Currency culculator for EURO, USD, UZB, GPB
